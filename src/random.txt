@@ -1,0 +1,21 @@
+<Route path="/business">
+          <New country="in" category='business'/>
+          </Route>
+<Route path="/entertainment">
+          <New country="in" category='entertainment'/>
+          </Route>
+<Route path="/general">
+          <New country="in" category='general'/>
+          </Route>
+<Route path="/health">
+          <New country="in" category='health'/>
+          </Route>
+<Route path="/science">
+          <New country="in" category='science'/>
+          </Route>
+<Route path="/sports">
+          <New country="in" category='sports'/>
+          </Route>
+<Route path="/technology">
+          <New country="in" category='technology'/>
+          </Route>
